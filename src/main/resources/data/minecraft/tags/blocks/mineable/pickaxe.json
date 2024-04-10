@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraftje-mod:ruby_block",
+    "minecraftje-mod:radiant_block",
+    "minecraftje-mod:sapphire_block",
+    "minecraftje-mod:green_sapphire_block",
+    "minecraftje-mod:pearl_block",
+    "minecraftje-mod:ruby_ore",
+    "minecraftje-mod:deepslate_ruby_ore",
+    "minecraftje-mod:deepslate_green_sapphire_ore",
+    "minecraftje-mod:green_sapphire_ore",
+    "minecraftje-mod:deepslate_sapphire_ore",
+    "minecraftje-mod:sapphire_ore"
+
+  ]
+}

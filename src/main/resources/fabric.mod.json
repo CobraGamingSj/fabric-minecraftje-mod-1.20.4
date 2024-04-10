@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "minecraftje-mod",
+	"version": "${version}",
+	"name": "MinecraftJE Mod",
+	"description": "This fabric Mod Is Made By CobraGamingSJ",
+	"authors": [
+		"CobraGamingSJ"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/minecraftje-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.cobra.minecraftjemod.MinecraftJEMod"
+		],
+		"client": [
+			"net.cobra.minecraftjemod.MinecraftJEModClient"
+		],
+		"fabric-datagen": [
+			"net.cobra.minecraftjemod.MinecraftJEModDataGenerator"
+		]
+	},
+	"mixins": [
+		"minecraftje-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.9",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

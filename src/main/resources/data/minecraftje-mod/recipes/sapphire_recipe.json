@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraftje-mod:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "minecraftje-mod:sapphire",
+    "count": 9
+  }
+}

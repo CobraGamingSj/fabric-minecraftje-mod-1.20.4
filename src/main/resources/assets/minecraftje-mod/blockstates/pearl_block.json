@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraftje-mod:block/pearl_block"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+
+  ],
+  "key": {
+    "a": {
+      "item": "minecraftje-mod:radiant"
+    }
+  },
+  "result": {
+    "item": "minecraftje-mod:radiant_block"
+  }
+}

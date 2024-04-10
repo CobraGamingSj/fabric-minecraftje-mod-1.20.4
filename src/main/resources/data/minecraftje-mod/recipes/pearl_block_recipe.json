@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abr",
+    "ywo",
+    "pPg"
+
+  ],
+  "key": {
+    "a": {
+      "item": "minecraftje-mod:green_pearl"
+    },
+    "b": {
+      "item": "minecraftje-mod:blue_pearl"
+    },
+    "r": {
+      "item": "minecraftje-mod:red_pearl"
+    },
+    "y": {
+      "item": "minecraftje-mod:yellow_pearl"
+    },
+    "w": {
+      "item": "minecraftje-mod:white_pearl"
+    },
+    "o": {
+      "item": "minecraftje-mod:orange_pearl"
+    },
+    "p": {
+      "item": "minecraftje-mod:purple_pearl"
+    },
+    "P": {
+      "item": "minecraftje-mod:pink_pearl"
+    },
+    "g": {
+      "item": "minecraftje-mod:golden_pearl"
+    }
+  },
+  "result": {
+    "item": "minecraftje-mod:pearl_block"
+  }
+}

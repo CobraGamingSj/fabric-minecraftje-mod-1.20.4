@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraftje-mod:radiant_block"
+    }
+  ],
+  "result": {
+    "item": "minecraftje-mod:radiant",
+    "count": 9
+  }
+}

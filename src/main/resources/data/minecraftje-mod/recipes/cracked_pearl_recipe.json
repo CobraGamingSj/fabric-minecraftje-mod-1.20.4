@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraftje-mod:pearl_block"
+    }
+  ],
+  "result": {
+    "item": "minecraftje-mod:cracked_pearl"
+  }
+}

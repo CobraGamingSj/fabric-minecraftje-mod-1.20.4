@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraftje-mod:deepslate_green_sapphire_ore",
+    "minecraftje-mod:green_sapphire_ore",
+    "minecraftje-mod:deepslate_sapphire_ore",
+    "minecraftje-mod:sapphire_ore"
+  ]
+}

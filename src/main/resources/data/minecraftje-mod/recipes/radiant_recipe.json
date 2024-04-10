@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "pattern": [
+    "rrr",
+    "rar",
+    "rrr"
+  ],
+  "key": {
+    "r": {
+      "item": "minecraftje-mod:ruby"
+    }
+  },
+    "a": {
+      "item": "minecraftje-mod:radiant"
+  },
+  "result": {
+    "item": "minecraftje-mod:radiant",
+    "count": 1
+  }
+}
